@@ -1,0 +1,11 @@
+sentence-transformers==3.4.1 ## to use open source library (huggingface)
+langchain #
+flask # For UI
+pypdf # For PDF doc
+python-dotenv # Manage openai Credential and pinecone credential
+pinecone[grpc] # Authentication
+langchain-pinecone
+langchain_community
+langchain_openai
+langchain_experimental
+-e .
