@@ -5,8 +5,7 @@
 Clone the git repo
 
 ```bash
-Project repo = https://github.com
-```
+Project repo = https://github.com/HarshArya04/M-Bot.git
 
 ## Now create a conda environment after opening the repo
 
